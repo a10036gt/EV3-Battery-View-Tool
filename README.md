@@ -16,4 +16,6 @@ this tool support original Lego Firmware.🎉
 For More Information：https://www.ofdl.nctu.me/en/ev3-hacking/ev3-battery-view-tool/
 更多資料：https://www.ofdl.nctu.me/ev3-hack/ev3-battery-view/
 
+This tool was program by Lego Assembly Language.
+
 
