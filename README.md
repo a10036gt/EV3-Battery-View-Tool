@@ -14,8 +14,8 @@ this tool support original Lego Firmware.🎉
 在WRO、RCJ等機器人競賽，機器人的穩定性可謂非常重要，其中一項影響穩定性的關鍵參數就是：電池。
 於是我們便開發出了一個可以於EV3上直接檢視電池狀況的工具，直接利用Lego EV3底層的ByteCode製成，所以完美支持原生的EV3韌體，本工具以EV3 App形式存在，除非重新刷機，否則該應用都會一直存在的哦，只要沒把原生Lego VM移除的韌體基本上都支持~🎉
 
-For More Information：https://www.ofdl.nctu.me/en/ev3-hacking/ev3-battery-view-tool/
-更多資料：https://www.ofdl.nctu.me/ev3-hack/ev3-battery-view/
+For More Information：https://ofdl.tw/en/ev3-hacking/ev3-battery-view-tool/
+更多資料：https://ofdl.tw/ev3-hack/ev3-battery-view/
 
 This tool was program by Lego Assembly Language.
 
